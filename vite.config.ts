@@ -16,5 +16,4 @@ export default defineConfig({
 			external: ["react", "react-dom", "styled-components"],
 		},
 	},
-	base: "/KUIT3_Hackathon_Team5-Web/",
 });
